@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+﻿<<<<<<< HEAD
 ﻿# medamayaki
 
 
@@ -2067,3 +2067,5 @@
 =======
 >>>>>>> fedb5dbd6dee1ea656fea21ef54a67e401ee16ac
 >>>>>>> b114628e866fe2ce3a2bd4cec3cdb7ba6947abb2
+
+腰痛い
